@@ -14,4 +14,5 @@ I planned this project using a Figjam board and also used already made component
 
 ### View it live
 
-https://amazing-pegasus-a92fd6.netlify.app/
+https://paula-jungaker.netlify.app/
+
